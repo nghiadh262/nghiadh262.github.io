@@ -478,7 +478,8 @@ p.skill-name input {
 }
 
 #cv-content {
-    padding-bottom: 15px;
+    padding-bottom: 22px;
+    padding-top: 83px !important;
     z-index: 3;
 }
 
@@ -553,8 +554,9 @@ p.skill-name input {
     color: #000;
     min-height: 800px;
     background: #fff;
-    margin-bottom: 100px !important;
-    border: 1px solid #e9ebee;
+    padding-bottom: 0px !important;
+    margin-bottom: 0px !important;
+    border: 0px solid #e9ebee;
     outline: none !important;
     page-break-inside: auto;
 }

@@ -114,6 +114,10 @@
     font-size: 18px;
 }
 
+#block02 {
+    margin-top: 30px !important;
+}
+
 #sort_block #block03 .head {
     width: 70%;
     display: inline-block;
@@ -473,6 +477,7 @@ h2 {
 
 .h3 .exp-subtitle {
     display: block !important;
+    font-size: 12.3px !important;
 }
 
 #block04 .h3 span {
@@ -492,6 +497,7 @@ h2 {
 #block02 .exp-title {
     width: 70%;
     float: left;
+    font-size: 16.5px;
 }
 
 #block02 .exp-date {

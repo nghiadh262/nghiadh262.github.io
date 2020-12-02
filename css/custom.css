@@ -2,7 +2,16 @@
     background-color: #878787;
 }
 
-#box-hvt>h2 {
+#box-hvt {
+    display: flex !important;
+    justify-content: space-between;
+}
+
+#cv-top-qr {
+    margin-right: 3.5rem;
+}
+
+#box-hvt>div>h2 {
     margin-top: 15px;
 }
 
