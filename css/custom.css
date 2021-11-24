@@ -53,6 +53,10 @@ ul {
     color: initial !important;
 }
 
+#box02 {
+    padding: 5px 5px !important;
+}
+
 @media print {
     @page {
         size: A4;
